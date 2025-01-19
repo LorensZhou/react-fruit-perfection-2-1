@@ -50,6 +50,7 @@ nav ul {
     flex-basis: 250px;
     flex-grow: 0;
     flex-shrink: 1;
+    border: 1px dashed black;
 }
 
 nav a,
